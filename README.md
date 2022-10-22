@@ -1,7 +1,5 @@
 <div class="landing" id="landing">
                 <h1>I'm Amit</h1>
-                <p>An Enthusiast</p>
-                <img id="bgImg" src="./images/landingVectorBg.png" alt="">
         </div>
         <hr id="hr1">
         <div class="shortProfile">
@@ -150,4 +148,5 @@
                 <a href="https://www.instagram.com/amitpal16181/"><i class="fa-brands fa-instagram"></i></a>
                 <a href="https://github.com/amitpal16181"><i class="fa-brands fa-github"></i></a>
                 <h5>&#169; Copyright,&nbsp;<a id="websiteLink" href="https://amitpal16181.github.io/amitPal_Profile/">Amit Pal</a></h5>
+        </div>
         </div>
